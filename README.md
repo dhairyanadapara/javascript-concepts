@@ -1,8 +1,8 @@
-# javascript-concepts
+# frontend
 
 - let vs const: https://www.joshwcomeau.com/javascript/the-const-deception/
 - statements vs expressions: https://www.joshwcomeau.com/javascript/statements-vs-expressions/
-
+- how browser works? - https://web.dev/howbrowserswork/
 
 # general
 - regex game: https://www.therobinlord.com/projects/slash-escape
