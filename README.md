@@ -3,6 +3,7 @@
 - let vs const: https://www.joshwcomeau.com/javascript/the-const-deception/
 - statements vs expressions: https://www.joshwcomeau.com/javascript/statements-vs-expressions/
 - how browsers work - https://web.dev/howbrowserswork/
+- How to handle broken images: https://bitsofco.de/styling-broken-images/
 
 # general
 - regex game: https://www.therobinlord.com/projects/slash-escape
