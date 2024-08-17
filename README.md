@@ -6,6 +6,7 @@
 - How to handle broken images: https://bitsofco.de/styling-broken-images/
 - Popover API - https://developer.chrome.com/en/blog/introducing-popover-api/?utm_source=tldrnewsletter
 - React Re-Render - https://www.developerway.com/posts/react-re-renders-guide
+- CSS reflow: https://developers.google.com/speed/docs/insights/browser-reflow
 
 # general
 - regex game: https://www.therobinlord.com/projects/slash-escape
